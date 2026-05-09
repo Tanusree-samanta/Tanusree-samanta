@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br><br>🌱 I’m currently learning AI/ML, Deep Learning, and Full Stack Development  <br>💻 I’m currently working on Machine Learning and Web Development projects  <br>🤝 I’m looking to collaborate on AI/ML and UI/UX based projects  <br>📚 Ask me about Python, HTML, CSS, Machine Learning, and Canva Designing  <br>🚀 I’m looking for help with advanced AI model deployment and cloud integration  <br>⚡ Fun fact: I love mixing creativity with technology to build unique digital experiences
+#  About Me:
+<br><br> I’m currently learning AI/ML, Deep Learning, and Full Stack Development  <br>💻 I’m currently working on Machine Learning and Web Development projects  <br> I’m looking to collaborate on AI/ML and UI/UX based projects  <br> Ask me about Python, HTML, CSS, Machine Learning, and Canva Designing  <br> I’m looking for help with advanced AI model deployment and cloud integration  <br> Fun fact: I love mixing creativity with technology to build unique digital experiences
 
 
 ## 🌐 Socials:
