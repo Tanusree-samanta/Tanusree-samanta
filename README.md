@@ -19,6 +19,6 @@ About Me<br><br> I’m currently learning AI/ML, Deep Learning, and Full Stack D
 ![](https://github-contributor-stats.vercel.app/api?username=Tanusree-samanta&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Tanusree-samanta&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Tanusree-samanta&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
