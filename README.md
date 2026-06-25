@@ -93,10 +93,6 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 <br/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tanusree-samanta&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=820" height="180" />
-
-<br/>
-
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tanusree-samanta&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=780" height="180" />
 <br/>
 
