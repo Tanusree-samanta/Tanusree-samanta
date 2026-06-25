@@ -84,7 +84,7 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 ---
 
-###GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
