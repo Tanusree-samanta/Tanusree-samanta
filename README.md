@@ -1,7 +1,4 @@
-
-
 <br/>
-
 ### Hey, I'm Tanu 👋
 
 I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artificial Intelligence & Machine Learning**. I'm passionate about building intelligent applications, developing modern web experiences, and designing visually engaging interfaces. Alongside my technical journey, I work as a **freelance Graphic Designer**, helping clients bring their ideas to life through creative branding, social media designs, and digital content. I enjoy solving real-world problems with technology, continuously learning new skills, and blending creativity with innovation to build meaningful digital experiences.
@@ -32,7 +29,7 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -46,7 +43,7 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 <br/>
 
-**🧠 AI / ML**
+** AI / ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=3fb950&labelColor=0d1117)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=3fb950&labelColor=0d1117)
@@ -58,7 +55,7 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 <br/>
 
-**🚀 DevOps & Cloud**
+** DevOps & Cloud**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=d2a8ff&labelColor=0d1117)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=d2a8ff&labelColor=0d1117)
@@ -69,7 +66,7 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 <br/>
 
-**🎨 Design**
+** Design**
 
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=f78166&labelColor=0d1117)
 ![Canva](https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=f78166&labelColor=0d1117)
@@ -78,13 +75,13 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Tanusree-samanta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" height="180" />
-<img src="https://streak-stats.demolab.com/?user=Tanusree-samanta&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=58a6ff&sideNums=c9d1d9" height="180" />
 
+<img src="https://github-readme-stats.shion.dev/api?username=Tanusree-samanta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" height="180" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Tanusree-samanta&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=58a6ff&sideNums=c9d1d9" height="180" width="48%" />
 <br/>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tanusree-samanta&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=780" height="180" />
