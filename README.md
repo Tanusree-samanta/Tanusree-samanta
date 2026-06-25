@@ -1,10 +1,4 @@
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=turning+coffee+into+code+since+2024+;AI+%26+ML+%40+The+Neotia+University%2C+Kolkata;open+source+contributor+%26+proud+of+it+;graphic+designer+when+the+vibe+calls+)](https://github.com/Tanusree-samanta)
-
-</div>
-
 <br/>
 
 ---
