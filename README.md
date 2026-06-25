@@ -35,43 +35,13 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 <div align="center">
 
-**Languages**
+**Languages** &nbsp;|&nbsp; ![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=58a6ff&labelColor=161b22) ![C++](https://img.shields.io/badge/C++-0d1117?style=flat&logo=cplusplus&logoColor=58a6ff&labelColor=161b22) ![Java](https://img.shields.io/badge/Java-0d1117?style=flat&logo=openjdk&logoColor=58a6ff&labelColor=161b22) ![R](https://img.shields.io/badge/R-0d1117?style=flat&logo=r&logoColor=58a6ff&labelColor=161b22) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=58a6ff&labelColor=161b22)
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=58a6ff&labelColor=161b22)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat&logo=cplusplus&logoColor=58a6ff&labelColor=161b22)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat&logo=openjdk&logoColor=58a6ff&labelColor=161b22)
-![R](https://img.shields.io/badge/R-0d1117?style=flat&logo=r&logoColor=58a6ff&labelColor=161b22)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=58a6ff&labelColor=161b22)
+**AI / ML** &nbsp;|&nbsp; ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat&logo=tensorflow&logoColor=3fb950&labelColor=161b22) ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat&logo=pytorch&logoColor=3fb950&labelColor=161b22) ![Keras](https://img.shields.io/badge/Keras-0d1117?style=flat&logo=keras&logoColor=3fb950&labelColor=161b22) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat&logo=scikit-learn&logoColor=3fb950&labelColor=161b22) ![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=flat&logo=mlflow&logoColor=3fb950&labelColor=161b22) ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat&logo=numpy&logoColor=3fb950&labelColor=161b22) ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat&logo=pandas&logoColor=3fb950&labelColor=161b22)
 
-<br/>
+**DevOps & Cloud** &nbsp;|&nbsp; ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat&logo=fastapi&logoColor=d2a8ff&labelColor=161b22) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=d2a8ff&labelColor=161b22) ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat&logo=amazon-aws&logoColor=d2a8ff&labelColor=161b22) ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat&logo=nginx&logoColor=d2a8ff&labelColor=161b22) ![Render](https://img.shields.io/badge/Render-0d1117?style=flat&logo=render&logoColor=d2a8ff&labelColor=161b22) ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat&logo=flask&logoColor=d2a8ff&labelColor=161b22)
 
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat&logo=tensorflow&logoColor=3fb950&labelColor=161b22)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat&logo=pytorch&logoColor=3fb950&labelColor=161b22)
-![Keras](https://img.shields.io/badge/Keras-0d1117?style=flat&logo=keras&logoColor=3fb950&labelColor=161b22)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat&logo=scikit-learn&logoColor=3fb950&labelColor=161b22)
-![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=flat&logo=mlflow&logoColor=3fb950&labelColor=161b22)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat&logo=numpy&logoColor=3fb950&labelColor=161b22)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat&logo=pandas&logoColor=3fb950&labelColor=161b22)
-
-<br/>
-
-**DevOps & Cloud**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat&logo=fastapi&logoColor=d2a8ff&labelColor=161b22)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=d2a8ff&labelColor=161b22)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat&logo=amazon-aws&logoColor=d2a8ff&labelColor=161b22)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat&logo=nginx&logoColor=d2a8ff&labelColor=161b22)
-![Render](https://img.shields.io/badge/Render-0d1117?style=flat&logo=render&logoColor=d2a8ff&labelColor=161b22)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat&logo=flask&logoColor=d2a8ff&labelColor=161b22)
-
-<br/>
-
-**Design**
-
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat&logo=figma&logoColor=f78166&labelColor=161b22)
-![Canva](https://img.shields.io/badge/Canva-0d1117?style=flat&logo=canva&logoColor=f78166&labelColor=161b22)
+**Design** &nbsp;|&nbsp; ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat&logo=figma&logoColor=f78166&labelColor=161b22) ![Canva](https://img.shields.io/badge/Canva-0d1117?style=flat&logo=canva&logoColor=f78166&labelColor=161b22)
 
 </div>
 
