@@ -54,7 +54,7 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 <br/>
 
-** AI / ML**
+**AI / ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=3fb950)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=3fb950)
@@ -66,7 +66,7 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 <br/>
 
-** DevOps & Cloud**
+**DevOps & Cloud**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=d2a8ff)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=d2a8ff)
@@ -77,7 +77,7 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 <br/>
 
-** Design**
+**Design**
 
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=f78166)
 ![Canva](https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=f78166)
