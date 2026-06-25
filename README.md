@@ -1,24 +1,161 @@
-# 💫 About Me:
-About Me<br><br> I’m currently learning AI/ML, Deep Learning, and Full Stack Development  <br> I’m currently working on Machine Learning and Web Development projects  <br> I’m looking to collaborate on AI/ML and UI/UX based projects  <br> Ask me about Python, HTML, CSS, Machine Learning, and Canva Designing  <br> I’m looking for help with advanced AI model deployment and cloud integration  <br> Fun fact: I love mixing creativity with technology to build unique digital experiences
+<div align="center">
 
+<!-- NEURAL NETWORK HEADER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&text=TANUSREE%20SAMANTA&fontSize=40&color=0:7C3AED,100:00F5D4&stroke=7C3AED&strokeWidth=2&fontColor=E8E6F0&animation=twinkling&fontAlignY=65&desc=Neural%20Architect%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=82&descSize=14">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=TANUSREE%20SAMANTA&fontSize=40&color=0:7C3AED,100:00F5D4&stroke=7C3AED&strokeWidth=2&fontColor=E8E6F0&animation=twinkling&fontAlignY=65&desc=Neural%20Architect%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=82&descSize=14" alt="header"/>
+</picture>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tanusree.samanta.77?igsh=MWN4a2F4azM5MHlpYg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tanusree-samanta-90019435b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samantatanusree2005@gmail.com) 
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+intelligent+systems+from+scratch+%F0%9F%A7%A0;Where+code+meets+creativity+%E2%9C%A8;2nd+Year+CSE+%7C+AI+%26+ML+%40+TNU%2C+Kolkata)](https://github.com/Tanusree-samanta)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Tanusree-samanta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Tanusree-samanta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tanusree-samanta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<!-- PROFILE VIEWS & SOCIAL BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=Tanusree-samanta&style=for-the-badge&color=7C3AED&label=NEURAL+VISITORS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanusree-samanta-90019435b)
+[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-00F5D4?style=for-the-badge&logo=gmail&logoColor=black)](mailto:samantatanusree2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-C4B5FD?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Tanusree-samanta)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tanusree-samanta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Tanusree-samanta&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `> whoami`
+
+```python
+class TanusreeSamanta:
+    def __init__(self):
+        self.name        = "Tanusree Samanta"
+        self.alias       = "Tanu ✨"
+        self.location    = "Kolkata, West Bengal 🇮🇳"
+        self.university  = "The Neotia University — CSE (AI & ML) 2024–2028"
+        self.roles       = ["MLOps Engineer (aspiring)", "Open Source Contributor",
+                            "Freelance Graphic Designer", "Full Stack Dev (learning)"]
+        self.current     = ["FastAPI + Docker + AWS deployments",
+                            "Contributing to Supabase ecosystem",
+                            "Building AI-powered web experiences"]
+        self.fuel        = "☕ Coffee → 💡 Ideas → 💻 Code → 🚀 Ship"
+
+    def philosophy(self):
+        return "Turn real-world problems into intelligent digital solutions."
+```
+
+<br/>
+
+---
+
+## `> skill_graph --visualize`
+
+<div align="center">
+
+### ⚡ Languages
+![Python](https://img.shields.io/badge/Python-Expert-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-Proficient-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-Familiar-276DC3?style=flat-square&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Familiar-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+### 🧠 AI / ML / MLOps
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-Tracking-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### 🚀 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EC2%2FS3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### 🎨 Creative & Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</div>
+
+---
+
+## `> ls ~/projects`
+
+<div align="center">
+
+| Project | Stack | Status |
+|---------|-------|--------|
+| 🔍 **ResumeIQ** — AI Resume Analyzer | FastAPI · Docker · AWS EC2 · Nginx | 🟡 Migrating to Render |
+| 🌐 **LinguaFlow** — Translation App | Streamlit · Flask · Render | 🟢 Live |
+| 🎵 **AI Music Generator** | NumPy LSTM · Python | 🟢 Complete |
+| 📉 **Bank Churn Prediction** | scikit-learn · Streamlit | 🟢 Complete |
+| 🚦 **ITECS** — Traffic AI System | React · Hackathon | 🟢 Complete |
+
+</div>
+
+---
+
+## `> git log --contributions`
+
+<div align="center">
+
+<!-- GITHUB STATS TRIO -->
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Tanusree-samanta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B14&title_color=00F5D4&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Tanusree-samanta&theme=tokyonight&hide_border=true&background=080B14&ring=7C3AED&fire=00F5D4&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=7C7C9E&currStreakNum=00F5D4&sideNums=E8E6F0" />
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tanusree-samanta&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B14&title_color=00F5D4&text_color=C4B5FD" />
+
+</div>
+
+---
+
+## `> open_source --recent`
+
+```
+✅  supabase/supabase    — docs: update stripe-sync-engine repo links  (PR merged)
+✅  supabase/supabase-js — feat: browser DNS error detection in PostgrestBuilder.ts
+✅  supabase/supabase    — docs: React Native CLI setup guide
+✅  parthbuilds/FitMart  — test: Jest suite for chatConfig.js fallback logic
+✅  parthbuilds/FitMart  — fix: click handlers on HomePage placeholder buttons
+🔄  supabase/cli         — investigating Edge Function bundling & import map issue
+```
+
+---
+
+## `> fortune --dev`
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+
+</div>
+
+---
+
+## `> top_repos --contributed`
+
+<div align="center">
+
+[![Top Contributed](https://github-contributor-stats.vercel.app/api?username=Tanusree-samanta&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=080B14)](https://github.com/Tanusree-samanta)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- FOOTER WAVE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:080B14,50:7C3AED,100:00F5D4&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:080B14,50:7C3AED,100:00F5D4&section=footer" alt="footer"/>
+</picture>
+
+*"The best model is the one that ships."*
+**— Tanu, probably at 2am** ☕
+
+</div>
