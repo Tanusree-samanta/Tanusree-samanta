@@ -84,20 +84,18 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 ---
 
-### 📊 GitHub Stats
+###GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Tanusree-samanta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff" height="165" />
-<img src="https://streak-stats.demolab.com/?user=Tanusree-samanta&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=58a6ff&sideNums=c9d1d9" height="165" />
+<img src="https://github-readme-stats.shion.dev/api?username=Tanusree-samanta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff" height="195" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tanusree-samanta&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="195" />
 
 <br/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tanusree-samanta&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="140" />
+<img src="https://streak-stats.demolab.com/?user=Tanusree-samanta&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=58a6ff&sideNums=c9d1d9" height="195" />
 
 </div>
-
----
 
 ###  A quote for the day
 
