@@ -1,8 +1,3 @@
-<div align="center">
-
-<type=waving&height=160&color=0:0d1117,50:161b22,100:21262d&text=Hey,%20I'm%20Tanu%20✨&fontSize=38&fontColor=e6edf3&animation=fadeIn&fontAlignY=65&desc=AI%20%26%20ML%20Student%20·%20Builder%20·%20Creative&descSize=14&descAlignY=82&descColor=8b949e" />
-
-</div>
 
 <div align="center">
 
@@ -14,7 +9,7 @@
 
 ---
 # Hello, I'm Tanu ✨
-### Turning Coffee ☕ into Code 💻 and Creativity 🎨
+### Turning Coffee into Code and Creativity.... 
 
 
 
@@ -43,7 +38,7 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 </div>
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 
@@ -82,7 +77,7 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 ---
 
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
@@ -99,7 +94,7 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 ---
 
-### ✍️ A quote for the day
+###  A quote for the day
 
 <div align="center">
 
