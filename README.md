@@ -1,5 +1,5 @@
 <br/>
-## **Hey, I'm Tanu ✨**
+# Hey, I'm Tanu ✨
 
 I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artificial Intelligence & Machine Learning**. I'm passionate about building intelligent applications, developing modern web experiences, and designing visually engaging interfaces. Alongside my technical journey, I work as a **freelance Graphic Designer**, helping clients bring their ideas to life through creative branding, social media designs, and digital content. I enjoy solving real-world problems with technology, continuously learning new skills, and blending creativity with innovation to build meaningful digital experiences.
 
