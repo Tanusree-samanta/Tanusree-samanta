@@ -1,25 +1,22 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0d1117,50:161b22,100:21262d&text=Hey,%20I'm%20Tanu%20✨&fontSize=38&fontColor=e6edf3&animation=fadeIn&fontAlignY=65&desc=AI%20%26%20ML%20Student%20·%20Builder%20·%20Creative&descSize=14&descAlignY=82&descColor=8b949e" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=turning+coffee+into+code+since+2024+☕;AI+%26+ML+%40+The+Neotia+University%2C+Kolkata;open+source+contributor+%26+proud+of+it+🔥;graphic+designer+when+the+vibe+calls+🎨)](https://github.com/Tanusree-samanta)
-
-</div>
 
 <br/>
 
----
+### Hey, I'm Tanu 👋
 
 I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artificial Intelligence & Machine Learning**. I'm passionate about building intelligent applications, developing modern web experiences, and designing visually engaging interfaces. Alongside my technical journey, I work as a **freelance Graphic Designer**, helping clients bring their ideas to life through creative branding, social media designs, and digital content. I enjoy solving real-world problems with technology, continuously learning new skills, and blending creativity with innovation to build meaningful digital experiences.
 
-- 🎓 Computer Engineering Student (AI & ML) @ The Neotia University, Kolkata
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Deep Learning
-- 🌐 Learning Full Stack Web Development
-- 🐍 Python Developer & Software Engineering Enthusiast
-- 🎨 Freelance Graphic Designer & Canva Creator
-- 🤝 Open to collaborating on AI, Open Source, UI/UX, and Creative Projects
-- 💬 Ask me about Python, ML, Docker, Git, HTML, CSS, JavaScript, Canva & Design
-- ⚡ Fun Fact: I love turning ideas into impactful digital products by combining code with creativity
+*  Computer Engineering Student (AI & ML)
+*  Passionate about Artificial Intelligence, Machine Learning & Deep Learning
+*  Learning Full Stack Web Development
+*  Python Developer & Software Engineering Enthusiast
+*  Freelance Graphic Designer & Canva Creator
+*  Open to Freelance Opportunities in Graphic Design & Web Development
+*  Building AI, ML, and Full Stack projects
+*  Continuously learning new technologies and improving my skills
+*  Open to collaborating on AI, Open Source, UI/UX, and Creative Projects
+*  Ask me about Python, Machine Learning, Git, HTML, CSS, JavaScript, Canva, and Design
+*  Fun Fact: I love turning ideas into impactful digital products by combining code with creativity.
 
 <br/>
 
