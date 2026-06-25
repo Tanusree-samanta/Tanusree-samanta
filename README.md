@@ -97,11 +97,10 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanusree-samanta&bg_color=0d1117&color=58a6ff&line=3fb950&point=d2a8ff&area=true&area_color=58a6ff&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.shion.dev/api?username=Tanusree-samanta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" height="195" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tanusree-samanta&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="195" />
 
-<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tanusree-samanta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" />
 
 </div>
 
