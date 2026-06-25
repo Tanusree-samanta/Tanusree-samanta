@@ -111,16 +111,7 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 ---
 
-### 🌐 Find me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/tanusree-samanta-90019435b)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=f78166)](mailto:samantatanusree2005@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=d2a8ff)](https://www.instagram.com/tanusree.samanta.77)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9)](https://github.com/Tanusree-samanta)
-
-</div>
 
 <div align="center">
 <br/>
