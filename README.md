@@ -62,9 +62,6 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanusree-samanta&bg_color=0d1117&color=58a6ff&line=3fb950&point=d2a8ff&area=true&area_color=58a6ff&hide_border=true" width="100%" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tanusree-samanta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" />
 
 </div>
 
