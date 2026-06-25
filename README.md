@@ -90,7 +90,6 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 <img src="https://github-readme-stats.shion.dev/api?username=Tanusree-samanta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" height="180" />
 <img src="https://streak-stats.demolab.com/?user=Tanusree-samanta&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=58a6ff&sideNums=c9d1d9" height="180" />
-
 <br/>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tanusree-samanta&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=780" height="180" />
