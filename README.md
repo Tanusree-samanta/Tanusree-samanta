@@ -23,6 +23,8 @@ I'm **Tanusree Samanta**, a Computer Engineering student specializing in **Artif
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/tanusree-samanta-90019435b)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=d2a8ff)](https://www.instagram.com/tanusree.samanta.77)
+[![Pinterest](https://img.shields.io/badge/Pinterest-0d1117?style=for-the-badge&logo=pinterest&logoColor=f78166)](https://pin.it/6O83YuEIY)
+[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=c9d1d9)](https://x.com/Tanusrees7)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=f78166)](mailto:samantatanusree2005@gmail.com)
 
 </div>
